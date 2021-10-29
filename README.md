@@ -7,6 +7,7 @@ Script capaz de explorar quase todas as funcionalidades do instagram:
 - [x] Abrir primeira foto de um perfil 
 - [x] Ir de foto em foto 
 - [x] Curtir foto 
+- [x] Visualizar Stories
 - [ ] Comentar nas fotos
 - [ ] Enviar ou responder mensagens
 - [ ] Visualizar os reels
