@@ -22,7 +22,7 @@ const bot = new InstagramBot()
 await bot.init()
 await bot.login(settings[0].username, settings[0].password)
 
-await bot.enterAUserProfile('github')
+await bot.enterAUserProfile('felipedasr')
 await bot.followUser()
 ```
 > Script rodando: 2021/10
